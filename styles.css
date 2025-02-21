@@ -395,11 +395,8 @@ main {
     font-weight: bold;
 }
 
-.close:hover,
-.close:focus {
-    color: #000;
-    text-decoration: none;
-    cursor: pointer;
+.pix-container button i {
+    font-size: 20px;
 }
 
 .noticia1-btn, .noticia2-btn, .noticia3-btn {
